@@ -1,4 +1,4 @@
-# Repertoire of Projects
+# Repertoire of Project Ensembles
 _More to come. Stay tuned!_
 
 Should there be a quartet or quintet? Acting-in-concert is our keynote token.
