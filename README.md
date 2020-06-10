@@ -9,9 +9,77 @@ Should there be a quartet or quintet? Acting-in-concert is our keynote token.
 
 ### Overview
 
-In this project, we are helping you break free from broker hassles. Our distributed ledger is built upon ethereum programming in Solidity. 
+In this project, we are helping you break free from broker hassles. Bid for your dream space on _**Brokerless**_! Our distributed ledger is built upon Solidity ethereum programming. Upon activation of the lease contract on the highest bid, you will be able to pay monthly rent through our automated blockchain network. Hakuna Matata!
 
 ![ERD](Images/brokerless-contract/erd.png)
+
+Demo transactions are processed via Localhost: 8545. Interactions are confirmed on MetaMask Chrome extension. Balances of accounts are tracked in Ganache.
+
+**Scenario A: Candidate Tenant Bid of 14 Ether on a Lease**
+
+With 50-50 Split:
+* 7 ETH goes to the deposit to Omnibus Account
+* The other 7 ETH pays the Landlord, Previous Tenant and Us.
+
+<details><summary>
+A Bid of 14 ETH on Remix Confirmed via MetaMask 
+</summary>
+
+![tenant_bid_auction_14eth](Images/brokerless-contract/tenant_bid_auction_14eth.png)
+
+</details>
+
+<details><summary>
+Account Balances on Ganache Prior to the Bid:
+</summary>
+
+![tenant_bid_auction_10eth_ganache_post](Images/brokerless-contract/tenant_bid_auction_10eth_ganache_post.png)
+
+</details>
+
+<details><summary>
+Account Balances on Ganache Following the Bid:
+</summary>
+
+![tenant_bid_auction_14eth_ganache_post](Images/brokerless-contract/tenant_bid_auction_14eth_ganache_post.png)
+
+</details>
+
+<details><summary>
+Get Balance on Omnibus AccountGanache Following the 14 ETH Bid with 50-50 Split:
+</summary>
+
+![tenant_bid_14eth_ganache_omnibus](Images/brokerless-contract/tenant_bid_14eth_ganache_omnibus.png)
+
+</details>
+
+**Scenario B: A Transfer of 50 ether to Omnibus Bank Account**
+
+<details><summary>
+A Transfer of 50 ETH to Omnibus Bank Account on Remix Confirmed via MetaMask 
+</summary>
+
+![bank_transfer_50eth](Images/brokerless-contract/bank_transfer_50eth.png)
+
+</details>
+
+<details><summary>
+Account Balances on Ganache Prior to the Transfer:
+</summary>
+
+![bank_transfer_50eth_ganache_pre](Images/brokerless-contract/bank_transfer_50eth_ganache_pre.png)
+
+</details>
+
+<details><summary>
+Account Balances on Ganache Following the Transfer:
+</summary>
+
+![bank_transfer_50eth_ganache_post](Images/brokerless-contract/bank_transfer_50eth_ganache_post.png)
+
+</details>
+
+
 
 ---
 
