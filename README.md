@@ -30,7 +30,7 @@ A Bid of 14 ETH on Remix Confirmed via MetaMask
 </details>
 
 <details><summary>
-Account Balances on Ganache Prior to the Bid:
+Account Balances on Ganache Prior to the Bid
 </summary>
 
 ![tenant_bid_auction_10eth_ganache_post](Images/brokerless-contract/tenant_bid_auction_10eth_ganache_post.png)
@@ -38,7 +38,7 @@ Account Balances on Ganache Prior to the Bid:
 </details>
 
 <details><summary>
-Account Balances on Ganache Following the Bid:
+Account Balances on Ganache Following the Bid
 </summary>
 
 ![tenant_bid_auction_14eth_ganache_post](Images/brokerless-contract/tenant_bid_auction_14eth_ganache_post.png)
@@ -81,7 +81,13 @@ Account Balances on Ganache Following the Transfer:
 
 **Github Webpage**
 
+<details><summary>
+Brokerless Market
+</summary>
+
 ![webpage_raw](Images/brokerless-contract/webpage_raw.png)
+
+</details>
 
 ---
 
