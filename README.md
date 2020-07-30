@@ -53,7 +53,7 @@ Get Balance on Omnibus AccountGanache Following the 14 ETH Bid with 50-50 Split:
 
 </details>
 
-**Scenario B: A Transfer of 50 ether to Omnibus Bank Account**
+**Scenario B: A Transfer of 50 ether on Omnibus Bank Account**
 
 <details><summary>
 A Transfer of 50 ETH to Omnibus Bank Account on Remix Confirmed via MetaMask 
